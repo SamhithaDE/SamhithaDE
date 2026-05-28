@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Senior Data Engineer** with 7+ years of experience architecting and delivering enterprise-scale data platforms across **financial services** and **telecom** domains. I specialize in building **lakehouse architectures**, **real-time streaming pipelines**, and **AI-ready data platforms** on Azure and AWS.
 
@@ -129,16 +129,6 @@ CDC ingestion pipelines modernizing legacy ETL for enterprise financial data int
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Samhitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamhithaDE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamhithaDE&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## Let's Connect
@@ -152,7 +142,7 @@ I'm always open to discussing **data platform architecture**, **lakehouse design
 
 ---
 
-*"Data is the foundation of intelligence — I build the pipelines that make it possible."*
+*"Data is the foundation of intelligence - I build the pipelines that make it possible."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SamhithaDE&color=0078D4&style=flat-square)
 
