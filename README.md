@@ -131,6 +131,17 @@ CDC ingestion pipelines modernizing legacy ETL for enterprise financial data int
 
 ---
 
+## Ask Me About
+
+- Building **lakehouse architectures** on Azure & AWS
+- **Real-time streaming pipelines** with Spark Structured Streaming & Event Hubs
+- **Delta Lake** optimization - Z-ordering, compaction, and time travel
+- **CDC pipelines** for near-real-time data integration
+- **AI-ready dataset preparation** for ML feature engineering
+- **Redshift & Synapse** query performance tuning
+
+---
+
 ## Let's Connect
 
 I'm always open to discussing **data platform architecture**, **lakehouse design**, **real-time streaming**, and **AI-ready data engineering**. Feel free to reach out!
