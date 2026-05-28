@@ -16,10 +16,10 @@
 
 I'm a **Senior Data Engineer** with 7+ years of experience architecting and delivering enterprise-scale data platforms across **financial services** and **telecom** domains. I specialize in building **lakehouse architectures**, **real-time streaming pipelines**, and **AI-ready data platforms** on Azure and AWS.
 
-- Currently at **TD Bank** — building regulated financial data platforms and fraud analytics pipelines
-- Previously at **T-Mobile** — processed 50M+ customer interaction records, 2M+ events/hour in real-time
-- Previously at **Wipro & IBM** — 10TB+ daily data processing, 100+ ETL pipelines in production
-- **MS in Computer & Information Sciences** — Southeast Missouri State University
+- Currently at **TD Bank** - building regulated financial data platforms and fraud analytics pipelines
+- Previously at **T-Mobile** - processed 50M+ customer interaction records, 2M+ events/hour in real-time
+- Previously at **Wipro & IBM** - 10TB+ daily data processing, 100+ ETL pipelines in production
+- **MS in Computer & Information Sciences** - Southeast Missouri State University
 - Certified **Microsoft Azure Data Engineer Associate (DP-203)** + **Databricks Data Engineer Professional**
 
 ---
