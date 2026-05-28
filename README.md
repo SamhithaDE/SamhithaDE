@@ -5,7 +5,7 @@
 ### Senior Data Engineer | Azure · Databricks · Spark · AWS | 7+ Years Building Scalable Data Platforms
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://applywizz-samhitha-26024.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samhitha-alapati-data-engineer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samhitha-alapati-data-engineer)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samhitha3107@gmail.com)
 
 </div>
