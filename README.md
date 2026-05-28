@@ -16,11 +16,11 @@
 
 I'm a **Senior Data Engineer** with 7+ years of experience architecting and delivering enterprise-scale data platforms across **financial services** and **telecom** domains. I specialize in building **lakehouse architectures**, **real-time streaming pipelines**, and **AI-ready data platforms** on Azure and AWS.
 
-- Currently at **TD Bank** - building regulated financial data platforms and fraud analytics pipelines
-- Previously at **T-Mobile** - processed 50M+ customer interaction records, 2M+ events/hour in real-time
-- Previously at **Wipro & IBM** - 10TB+ daily data processing, 100+ ETL pipelines in production
-- **MS in Computer & Information Sciences** - Southeast Missouri State University
-- Certified **Microsoft Azure Data Engineer Associate (DP-203)** + **Databricks Data Engineer Professional**
+- 🏦 Currently at **TD Bank** - building regulated financial data platforms and fraud analytics pipelines
+- 📡 Previously at **T-Mobile** - processed 50M+ customer interaction records, 2M+ events/hour in real-time
+- ☁️ Previously at **Wipro & IBM** - 10TB+ daily data processing, 100+ ETL pipelines in production
+- 🎓 **MS in Computer & Information Sciences** - Southeast Missouri State University
+- 🏅 Certified **Microsoft Azure Data Engineer Associate (DP-203)** + **Databricks Data Engineer Professional**
 
 ---
 
@@ -67,17 +67,17 @@ I'm a **Senior Data Engineer** with 7+ years of experience architecting and deli
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### Enterprise Risk Analytics Lakehouse Platform
 > *Azure Data Factory · Databricks · Delta Lake · Azure Purview · Event Hubs*
 
 Built a governed financial lakehouse on **ADLS Gen2** standardizing ingestion-to-curation workflows for credit risk analytics and fraud monitoring.
 
-- ✅ Near real-time transaction signal capture via Spark Structured Streaming
-- ✅ Regulatory-grade dataset lineage with Azure Purview
-- ✅ Accelerated risk reporting certification cycles with audit-ready traceability
-- ✅ Reduced reconciliation effort by **32%**
+- Near real-time transaction signal capture via Spark Structured Streaming
+- Regulatory-grade dataset lineage with Azure Purview
+- Accelerated risk reporting certification cycles with audit-ready traceability
+- Reduced reconciliation effort by **32%**
 
 ---
 
@@ -86,10 +86,10 @@ Built a governed financial lakehouse on **ADLS Gen2** standardizing ingestion-to
 
 Streaming analytics platform processing **50M+ subscriber interaction records** supporting personalization model feature generation.
 
-- ✅ 2M+ events/hour ingested in real-time
-- ✅ Engineered curated Delta Lake feature datasets improving campaign targeting
-- ✅ Reduced subscriber churn by **12%** through near-real-time clickstream analytics
-- ✅ Lowered analytics query latency by **35%**
+- 2M+ events/hour ingested in real-time
+- Engineered curated Delta Lake feature datasets improving campaign targeting
+- Reduced subscriber churn by **12%** through near-real-time clickstream analytics
+- Lowered analytics query latency by **35%**
 
 ---
 
@@ -98,10 +98,10 @@ Streaming analytics platform processing **50M+ subscriber interaction records** 
 
 CDC ingestion pipelines modernizing legacy ETL for enterprise financial data integration.
 
-- ✅ Reduced reporting latency from **6 hours → 15 minutes**
-- ✅ Automated CI/CD deployment across dev/staging/prod with Terraform + Jenkins
-- ✅ Improved Redshift query performance by **60%** via distribution/sort key optimization
-- ✅ Reduced operational overhead by **55%** migrating SSIS → AWS Glue
+- Reduced reporting latency from **6 hours → 15 minutes**
+- Automated CI/CD deployment across dev/staging/prod with Terraform + Jenkins
+- Improved Redshift query performance by **60%** via distribution/sort key optimization
+- Reduced operational overhead by **55%** migrating SSIS → AWS Glue
 
 ---
 
